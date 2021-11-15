@@ -1,1 +1,1 @@
-# -Pizza-Palace-Gateway-Service
+# Pizza-Palace-Gateway-Service
